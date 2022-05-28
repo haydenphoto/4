@@ -1,0 +1,25 @@
+img{
+    border-radius:30px ;
+}
+
+.h1{
+    color:#15a5d1;
+    font-size:70px;
+}
+
+.btn{
+    border:none;
+    border-radius:12px;
+    background-color:#0553a1;
+    font-size:72px;
+}
+
+h2{
+    font-size:68;
+
+}
+
+h3{
+    font-size:70;
+    color:blue;
+}
